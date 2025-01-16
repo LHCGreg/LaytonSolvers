@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaytonPeg", "LaytonPeg\LaytonPeg.csproj", "{3CB303A4-3EAA-4718-9EE3-05E8C9E9BE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaytonSlide", "LaytonSlide\LaytonSlide.csproj", "{D804C21B-C5C8-478B-A860-2A53F7E7D27D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{410CA98C-5698-44F4-9E96-D8116B93BFCF}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB303A4-3EAA-4718-9EE3-05E8C9E9BE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB303A4-3EAA-4718-9EE3-05E8C9E9BE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB303A4-3EAA-4718-9EE3-05E8C9E9BE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB303A4-3EAA-4718-9EE3-05E8C9E9BE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D804C21B-C5C8-478B-A860-2A53F7E7D27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D804C21B-C5C8-478B-A860-2A53F7E7D27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D804C21B-C5C8-478B-A860-2A53F7E7D27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D804C21B-C5C8-478B-A860-2A53F7E7D27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
